@@ -76,7 +76,7 @@ Her is the [link](https://drive.google.com/file/d/1Jgm4Xa30liyyhxjRiZxfL8CWnK6lH
 
 In our project is divided into four branches:
 
-- [Machine Learning](https://github.com/Fish-Snap/fishsnap-ml) || (https://github.com/Fish-Snap/fish-snap-backend-ml-flask)
+- [Machine Learning](https://github.com/Fish-Snap/fishsnap-ml) || [Machine Learning](https://github.com/Fish-Snap/fish-snap-backend-ml-flask)
 - [Cloud Computing](https://github.com/Fish-Snap/fish-snap-backend-ts)
 - [Mobile Development](https://github.com/Fish-Snap/FishSnap)
 
