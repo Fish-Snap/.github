@@ -13,7 +13,7 @@
 ## FishSnap Apps
 
 <p align="center">
-  <img src="https://github.com/azvadennys/iFiCam-C23-PS113-Bangkit/blob/f7421b6ce19d65e16898259fedc8bb6c6d79227b/overview.png" alt="Deskripsi Gambar" style="width:100%;">
+  <img src="https://github.com/Fish-Snap/FishSnap-C241-PS013-Bangkit/blob/master/Overview%20Fish%20Snap.png" alt="Deskripsi Gambar" style="width:100%;">
 </p>
 
 Fish Snap is an innovative app that utilises image detection technology to help users identify different types of fish using only their mobile phone camera. The app not only allows users to snap photos of fish that catches their eye, but also provides in-depth information on the type of fish as well as recipes to try.
@@ -25,7 +25,7 @@ Her is the [link](https://drive.google.com/file/d/1Jgm4Xa30liyyhxjRiZxfL8CWnK6lH
 ## About Project
 
 <div align="center">
-  <video src="https://github.com/azvadennys/iFiCam-C23-PS113-Bangkit/assets/71117133/bd7b0490-0839-40cf-bd53-8d95371f08d9" width="400" />
+  <video src="https://github.com/Fish-Snap/FishSnap-C241-PS013-Bangkit/blob/master/Fish%20Snap%20Demo%20App.mp4" width="400" />
 </div>
 
 ## Built with
@@ -52,12 +52,6 @@ Her is the [link](https://drive.google.com/file/d/1Jgm4Xa30liyyhxjRiZxfL8CWnK6lH
   - Firestore
   - Docker
   - Express.js
-
-## Architekture Overview
-
-<p align="center">
-  <img src="https://github.com/azvadennys/iFiCam-C23-PS113-Bangkit/blob/f7421b6ce19d65e16898259fedc8bb6c6d79227b/arsitektur.jpeg" alt="Deskripsi Gambar" style="width:100%;">
-</p>
 
 ## Getting Started
 
