@@ -25,7 +25,7 @@ Her is the [link](https://drive.google.com/file/d/1Jgm4Xa30liyyhxjRiZxfL8CWnK6lH
 ## About Project
 
 <div align="center">
-  <video src="https://github.com/Fish-Snap/FishSnap-C241-PS013-Bangkit/blob/master/Fish%20Snap%20Demo%20App.mp4" width="400" />
+  <video src="https://drive.google.com/file/d/1yPYDrEqdWcqaWAcouPzVfBIYjX1E_CIc/view?usp=drive_link" width="400" />
 </div>
 
 ## Built with
