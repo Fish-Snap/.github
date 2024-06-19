@@ -49,9 +49,12 @@ Her is the [link](https://drive.google.com/file/d/1Jgm4Xa30liyyhxjRiZxfL8CWnK6lH
 
 - **Cloud Computing:**
   - Google Cloud Run
-  - Firestore
+  - Google Cloud Storage
+  - Google Cloud SQL
+  - PostgresQSL
   - Docker
-  - Express.js
+  - NestJS
+  - Flask
 
 ## Getting Started
 
