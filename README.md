@@ -20,7 +20,7 @@ Fish Snap is an innovative app that utilises image detection technology to help 
 
 ## Download Link
 
-Her is the [link](https://drive.google.com/file/d/1Jgm4Xa30liyyhxjRiZxfL8CWnK6lHMrP/view?usp=drive_link) of Fish Snap App
+Her is the [link](https://drive.google.com/file/d/1aIQbwprBml2D5IEexYAA501JNdH11gpm/view?usp=drive_link) of Fish Snap App
 
 ## About Project
 
